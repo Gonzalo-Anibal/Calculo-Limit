@@ -1,2 +1,5 @@
 # Calculo-Limit
-From the trunk of my notes I found a job I did in my first semester of university that obtains the limit of a polynomial if it exists.
+
+> Trabajo 1 Calculo 1 - 2014.
+
+Del baúl de mis apuntes encontré un trabajo que hice en mi primer semestre de universidad que obtiene el límite de un polinomio si este existe.
